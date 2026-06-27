@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larva1217
-- 👀 I’m interested in game, ramen, animation, youtube
+- 👀 I’m interested in game, ramen, youtube
 - 🌱 I’m currently learning java, spring, sql
 - 📚 I organize university assignments and projects
 - 📫 How to reach me: larva1217@gmail.com
